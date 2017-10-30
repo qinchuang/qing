@@ -1,0 +1,74 @@
+/*div{text-align: center ;font-weight: bold}*/
+.bold{font-weight: bold;}
+.col-sm-6{width: 20%;}
+.label-danger{font-size: 14px;}
+.for{color: #fb474f;}
+ a{color:#3d3838; }
+.inlink-block{border: 1px solid #ccc;}
+.inlink-block a{display: inline-block;font-size:14px;padding: 10px 6px; }
+.text a{display: block;margin-bottom:20px;color: #adadad;}
+.h2{margin-top: 50px;}
+.maring{margin-top: 20px;margin-bottom: 30px;}
+h3{font-size: 14px;color:#000;font-weight: bold;margin-left: 0;padding-left: 0;}
+.thumbnail .caption{padding: 9px 0;}
+.thumbnail .caption p:nth-child(2){font-size:12px; color:#929292;margin-top: 10px;margin-bottom: 15px;min-height: 30px;}
+.red{color:#fb474f !important; }
+.padding{padding:5px !important;color:#fff !important;
+    background: #e94840 ;margin-top:10px !important;border-radius:10px; }
+.true{background: url("../img/dui.png") no-repeat left;
+    background-size: auto;
+    height: 30px;
+    line-height: 30px;
+    width: 110px;
+    padding:0 25px;
+    margin-left:10px;
+float: left;}
+.breadcrumbs{background: url("../img/pos.png") no-repeat left;background-size: auto}
+
+.swiper-container {
+    width:100%;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.swiper-container img{width: 100%;}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.navbar {margin-bottom: 0;padding: 5px 0;
+    background: #fff;border: 0;}
+/*banner*/
+.bannerL{left:30px;
+    top:-8px;z-index: 100}
+.bannerL ul{height: 100%}
+.bannerL li{padding: 7px 65px 6.8px 42px;
+    background:url("../img/jt.png") no-repeat 145px 5px rgba(0,0,0,0.5);
+    color: #fff;
+    }
+.bannerL div>a{display: block;margin: 10px 0}
+.bannerL div{position: absolute;top:0;left: 180px;
+    width: 150px;background:rgba(255,255,255,0.5) ;text-align: center;display: none;}
+.bannerL li:hover>div{display:block;}
+.bannerL li:hover{background:lightblue;}
+
+
+.partner img{margin:8px 5px;display: inline-block;}
+.partner img:nth-child(1){margin-left: 0;}
+.bg-color{background:#fbf8f8;margin-top: 20px;padding-bottom: 20px;}
